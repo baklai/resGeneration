@@ -1,0 +1,23 @@
+{
+  "name": "resgeneration",
+  "version": "1.0.0",
+  "description": "ResGeneration - генерация файла ресурсов для проектов Delphi 7",
+  "main": "resGeneration.exe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baklai/resGeneration.git"
+  },
+  "keywords": [
+    "Delphi",
+    "7"
+  ],
+  "author": "Dmitrii Baklai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baklai/resGeneration/issues"
+  },
+  "homepage": "https://github.com/baklai/resGeneration#readme"
+}
